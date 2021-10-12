@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Lopez-COP3330-assignment2" />
+        <module name="Lopez-COP3330-assignment3" />
+        <module name="Lopez-COP3330-ex03" />
+        <module name="Lopez-COP3330-ex14" />
+        <module name="Lopez-COP3330-ex02" />
+        <module name="Lopez-COP3330-ex13" />
+        <module name="Lopez-COP3330-ex05" />
+        <module name="Lopez-COP3330-ex16" />
+        <module name="Lopez-COP3330-ex04" />
+        <module name="Lopez-COP3330-ex15" />
+        <module name="Lopez-COP3330-ex10" />
+        <module name="Lopez-COP3330-ex21" />
+        <module name="Lopez-COP3330-ex20" />
+        <module name="Lopez-COP3330-ex01" />
+        <module name="Lopez-COP3330-ex12" />
+        <module name="Lopez-COP3330-ex23" />
+        <module name="Lopez-COP3330-ex11" />
+        <module name="Lopez-COP3330-ex22" />
+        <module name="Lopez-COP3330-ex07" />
+        <module name="Lopez-COP3330-ex06" />
+        <module name="Lopez-COP3330-ex17" />
+        <module name="Lopez-COP3330-ex09" />
+        <module name="Lopez-COP3330-ex08" />
+        <module name="Lopez-COP3330-ex19" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
