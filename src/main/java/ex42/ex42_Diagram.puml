@@ -1,11 +1,7 @@
 @startuml
-'https://plantuml.com/sequence-diagram
-
-autonumber
-
-Alice -> Bob: Authentication Request
-Bob --> Alice: Authentication Response
-
-Alice -> Bob: Another authentication Request
-Alice <-- Bob: another authentication Response
+class App{
+    +assignment41_input.txt
+    ---
+    +printPeople(String fname)
+}
 @enduml

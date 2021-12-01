@@ -1,11 +1,14 @@
 @startuml
-'https://plantuml.com/sequence-diagram
-
-autonumber
-
-Alice -> Bob: Authentication Request
-Bob --> Alice: Authentication Response
-
-Alice -> Bob: Another authentication Request
-Alice <-- Bob: another authentication Response
+class App{
++Scanner s
++String websiteName
++String name
++String path
++char js
++char css
++File website
++boolean siteMade
+---
++ String createIndex(FileWriter filemaker, String name, String websiteName)
+        }
 @enduml

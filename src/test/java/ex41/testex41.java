@@ -1,2 +1,4 @@
-package ex41;public class testex41 {
+package ex41;
+
+public class testex41 {
 }
